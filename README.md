@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Raashid</h1>
-<h3 align="center">Aspiring Software Engineer with hands-on experience in MERN Stack Development, Core and Advanced Java, and emerging skills in Generative AI , actively strengthening problem-solving through daily DSA practice in Java</h3>
+<h3 align="center">Aspiring Software Engineer with hands-on experience in Java & MERN Stack Development, Core and Advanced Java, and emerging skills in Generative AI , actively strengthening problem-solving through daily DSA practice in Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raashid676&label=Profile%20views&color=0e75b6&style=flat" alt="raashid676" /> </p>
 
