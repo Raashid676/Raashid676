@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohammad Raashid</h1>
 
 <h3 align="center">
-Computer Science Undergraduate | Java Backend Developer | DSA Enthusiast
+Computer Science Undergraduate | Aspiring Backend Engineer
 </h3>
 
 <p align="center">
-Passionate about Data Structures & Algorithms, Competitive Programming, and Backend Development using Java. I enjoy solving challenging problems, building scalable applications, and continuously learning new technologies.
+Passionate about designing and building scalable backend systems using modern technologies. I continuously strengthen my problem-solving and analytical thinking through Data Structures & Algorithms, LeetCode, and Competitive Programming to become a better software engineer.
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=raashid676&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=raashid676&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=raashid676&theme=algolia&margin-w=10&margin-h=10"/>
-</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raashid676&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -23,11 +21,11 @@ Passionate about Data Structures & Algorithms, Competitive Programming, and Back
 # 👨‍💻 About Me
 
 - 🎓 Computer Science Undergraduate
-- 💻 Learning **Java Backend Development**, **Spring Boot**, and **System Design**
-- 🌱 Improving my **Data Structures & Algorithms** skills every day
-- ⚡ Interested in Competitive Programming
-- 🚀 Goal: Become a Software Engineer
-- 📖 Always eager to learn new technologies
+- 💻 Focused on **Backend Development**
+-  Currently learning **Backend & System Design**
+- 🧠 Solving **Data Structures & Algorithms** problems to improve analytical thinking
+  
+- 📚 Always learning and exploring new technologies
 
 ---
 
@@ -51,11 +49,7 @@ Passionate about Data Structures & Algorithms, Competitive Programming, and Back
 
 <p align="left">
 
-<a href="https://skillicons.dev">
-
-<img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,js,ts,react,nodejs,express,mysql,mongodb,html,css,docker,git,github,linux,firebase,postman"/>
-
-</a>
+<img src="https://skillicons.dev/icons?i=java,spring,c,cpp,python,js,ts,html,css,react,nodejs,express,mysql,mongodb,docker,git,github,linux,firebase,postman"/>
 
 </p>
 
@@ -65,38 +59,44 @@ Passionate about Data Structures & Algorithms, Competitive Programming, and Back
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raashid676&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raashid676&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raashid676&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raashid676&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=raashid676&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Raashid676&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
----
+# 🚀 Featured Projects
 
-# 📈 Contribution Graph
 
-<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raashid676&theme=tokyo-night"/>
-
-</p>
+- 🔹  projects coming soon...
 
 ---
 
-# 💡 Quote
+# 📈 Current Focus
 
-> **"Success isn't built in a day. It's built one commit at a time."**
+- Building Backend Applications
+- Learning Backend Development
+- Improving DSA & Problem Solving
+- Exploring Scalable Software Architecture
+- Open Source Contributions
+
+---
+
+# 💡 Philosophy
+
+> *"Strong backend systems are built with clean architecture, efficient code, and continuous learning."*
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thank you for visiting my profile! ⭐
 </h3>
