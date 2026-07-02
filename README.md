@@ -1,102 +1,148 @@
-<h1 align="center">Hi 👋, I'm Mohammad Raashid</h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=Raashid676&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad+Raashid!;+Aspiring+Backend+Engineer!;" />
+</h1>
 
 <h3 align="center">
-Computer Science Undergraduate | Aspiring Backend Engineer
+Backend-Focused Computer Science Undergraduate from India 🇮🇳
 </h3>
 
-<p align="center">
-Passionate about designing and building scalable backend systems using modern technologies. I continuously strengthen my problem-solving and analytical thinking through Data Structures & Algorithms, LeetCode, and Competitive Programming to become a better software engineer.
-</p>
+<br/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=raashid676&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raashid676&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
+💻 I’m currently building my skills in **Backend Development**
 
----
+🌱 Currently learning **Backend, System Design, REST APIs & Databases**
 
-# 👨‍💻 About Me
+🧠 I regularly practice **Data Structures & Algorithms, LeetCode, and Competitive Programming** to strengthen my analytical thinking and problem-solving skills.
 
-- 🎓 Computer Science Undergraduate
-- 💻 Focused on **Backend Development**
--  Currently learning **Backend & System Design**
-- 🧠 Solving **Data Structures & Algorithms** problems to improve analytical thinking
-  
-- 📚 Always learning and exploring new technologies
+🚀 My goal is to become a **Backend Software Engineer** who builds scalable and efficient systems.
 
----
+🐍 **LeetCode:** https://leetcode.com/u/i-raashid/
 
-# 🌐 Connect With Me
+⚡ **"Great software isn't written by chance. It's built through consistency and continuous learning."**
 
-<p align="left">
+</div>
 
-<a href="https://leetcode.com/u/i-raashid/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<br/>
+
+<div align="center">
+
+<a href="mailto:abr082435@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohammad-raashid-1b30aa387/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://leetcode.com/u/i-raashid/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
-# 🛠 Languages & Tools
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 
-<p align="left">
+<br/>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,python,js,ts,html,css,react,nodejs,express,mysql,mongodb,docker,git,github,linux,firebase,postman"/>
 
-</p>
+</div>
+
+<br/>
 
 ---
 
-# 📊 GitHub Stats
+<h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raashid676&show_icons=true&theme=github_dark&hide_border=true"/>
+🎓 Computer Science Undergraduate
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raashid676&layout=compact&theme=github_dark&hide_border=true"/>
+💻 Passionate about **Backend Development**
 
-</p>
+🏗️ Interested in building scalable and reliable backend systems
 
-<p align="center">
+📚 Exploring ** Backend Development , and System Design**
 
-<img src="https://streak-stats.demolab.com?user=Raashid676&theme=github-dark&hide_border=true"/>
+🧩 Solving **LeetCode** and practicing **Competitive Programming** to improve problem-solving and analytical skills
 
-</p>
+🌟 Always eager to learn new technologies and improve as a software engineer.
 
----
-
-# 🚀 Featured Projects
-
-
-
-- 🔹  projects coming soon...
+</div>
 
 ---
 
-# 📈 Current Focus
+<h2 align="center">🚀 Current Focus</h2>
 
-- Building Backend Applications
-- Learning Backend Development
-- Improving DSA & Problem Solving
-- Exploring Scalable Software Architecture
-- Open Source Contributions
+<div align="center">
+
+✔ Backend Development
+
+✔ REST APIs
+
+✔ System Design
+
+✔ SQL & NoSQL Databases
+
+✔ Data Structures & Algorithms
+
+
+</div>
 
 ---
 
-# 💡 Philosophy
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-> *"Strong backend systems are built with clean architecture, efficient code, and continuous learning."*
+<br/>
+
+<div align="center">
+
+<img width="390" src="https://github-readme-streak-stats.demolab.com?user=Raashid676&theme=github-dark-blue&hide_border=true"/>
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Raashid676&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<br/>
+
+<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raashid676&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
-<h3 align="center">
-⭐ Thank you for visiting my profile! ⭐
-</h3>
+<h2 align="center">📌 Featured Projects</h2>
+
+<div align="center">
+
+Comming soon...
+
+⭐ Pin these repositories on your GitHub profile.
+
+</div>
+
+---
+
+<h2 align="center">💡 Philosophy</h2>
+
+<div align="center">
+
+> **"Backend engineering is about building systems that are scalable, reliable, and efficient. Every algorithm learned and every problem solved contributes to writing better software."**
+
+</div>
+
+---
+
+<div align="center">
+
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Thank+You+for+Visiting!+❤️;+Let's+Connect!+🚀;" />
+</h1>
+
+</div>
