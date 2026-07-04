@@ -5,18 +5,18 @@
 </h1>
 
 <h3 align="center">
-A Backend-Focused Computer Science Undergraduate from India 🇮🇳
+A Backend-Focused Computer Science Undergraduate 
 </h3>
 
 <br/>
 
 <div align="center">
 
-💻 I'm passionate about **Java Backend Development**
+💻 I'm passionate about ** Backend Development**
 
 🌱 I'm currently learning **Advanced Java, Spring Boot, REST APIs, Databases, Microservices & System Design**
 
-🧠 I regularly practice **Data Structures & Algorithms, LeetCode, and Competitive Programming** to strengthen my analytical thinking and problem-solving skills.
+🧠 I regularly practice **Data Structures & Algorithms, LeetCode, and Cp ** to strengthen my analytical thinking and problem-solving skills.
 
 🐍 **LeetCode Profile:**  
 <a href="https://leetcode.com/u/i-raashid/" target="_blank">leetcode.com/u/i-raashid</a>
@@ -68,7 +68,7 @@ A Backend-Focused Computer Science Undergraduate from India 🇮🇳
 
 <br/>
 
-### 🌐 Backend Technologies
+### Also know 
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
@@ -120,6 +120,6 @@ A Backend-Focused Computer Science Undergraduate from India 🇮🇳
 
 ### 🚀 Currently Focused On
 
-☕ Advanced Java • Spring Boot • Backend Development • REST APIs • Databases • System Design • DSA & Competitive Programming
+☕ Advanced Java • Spring Boot • Backend Development • REST APIs • Databases • System Design 
 
 </div>
