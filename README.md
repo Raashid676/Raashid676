@@ -51,44 +51,20 @@ A Backend-Focused Computer Science Undergraduate
 <br/>
 
 <div align="center">
-
-### 💻 Languages
-
 <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" />
-
 <br/><br/>
-
-### ☕ Java Backend
-
 <img src="https://skillicons.dev/icons?i=spring,maven,gradle" />
-
 <p>
 <strong>Advanced Java • Spring Boot • REST APIs • JDBC • Servlets • JSP • JPA • Hibernate • Spring Security • Microservices</strong>
 </p>
-
 <br/>
-
-### Also know 
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
 <br/><br/>
-
-### 🎨 Frontend Technologies
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-
 <br/><br/>
-
-### 🗄️ Databases
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
 <br/><br/>
-
-### 🛠️ Tools & Platforms
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
-
 </div>
 
 <br/>
