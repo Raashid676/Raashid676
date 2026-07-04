@@ -76,7 +76,7 @@ A Backend-Focused Computer Science Undergraduate
 
 ### 🎨 Frontend Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css, reat" />
 
 <br/><br/>
 
