@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Raashid676&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad+Raashid!;+Java+Backend+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohammad+Raashid!;+Java+Full+Stack+Engineer;" />
 </h1>
 
 <h3 align="center">
@@ -16,7 +16,7 @@ A Backend-Focused Computer Science Undergraduate
 
 🌱 I'm currently learning **Advanced Java, Spring Boot, REST APIs, Databases, Microservices & System Design**
 
-🧠 I regularly practice **Data Structures & Algorithms, LeetCode, and Cp ** to strengthen my analytical thinking and problem-solving skills.
+🧠 I regularly practice **Data Structures & Algorithms, LeetCode,  ** to strengthen my analytical thinking and problem-solving skills.
 
 🐍 **LeetCode Profile:**  
 <a href="https://leetcode.com/u/i-raashid/" target="_blank">leetcode.com/u/i-raashid</a>
