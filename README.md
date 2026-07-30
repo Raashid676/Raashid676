@@ -95,6 +95,6 @@ A Backend-Focused Computer Science Undergraduate
 
 ### 🚀 Currently Focused On
 
-☕ Advanced Java • Spring Boot • Backend Development • REST APIs • Databases • System Design 
+☕ Advanced Java • Spring Boot • Backend Engineering • REST APIs • Databases • System Design • Ai Engineering
 
 </div>
