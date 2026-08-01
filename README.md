@@ -11,12 +11,15 @@ A Backend-Focused Computer Science Undergraduate
 <br/>
 
 <div align="center">
+## About Me
 
-💻 I'm passionate about ** Backend Development**
+Computer Science undergraduate with a focus on backend engineering & system design, working primarily with Java & MERN. Currently expanding into AI engineering, alongside continued work on core data structures and algorithms.
 
-🌱 I'm currently learning **Advanced Java, Spring Boot, REST APIs, Databases, Microservices & System Design**
+Interested in building scalable, well-structured backend systems and understanding how AI fits into modern software architecture.
 
-🧠 I regularly practice **Data Structures & Algorithms, LeetCode,  ** to strengthen my analytical thinking and problem-solving skills.
+
+
+
 
 🐍 **LeetCode Profile:**  
 <a href="https://leetcode.com/u/i-raashid/" target="_blank">leetcode.com/u/i-raashid</a>
