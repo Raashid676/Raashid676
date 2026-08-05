@@ -58,7 +58,7 @@ Interested in building scalable, well-structured backend systems and understandi
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=spring,maven,gradle" />
 <p>
-<strong>Advanced Java • Spring Boot • REST APIs • JDBC • Servlets • JSP • JPA • Hibernate • Spring Security • Microservices</strong>
+<>• Spring Boot • REST APIs • JDBC • Servlets • JSP • JPA • Hibernate • Spring Security • Microservices</strong>
 </p>
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
