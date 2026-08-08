@@ -3,16 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohammad+Raashid!;+Full-Stack+%2B+AI+Engineer;" />
 </h1>
 <h3 align="center">
-Full-Stack|AI Engineer
+Full-Stack Developer (MERN) | Exploring AI Engineering
 </h3>
 <br/>
 <div align="center">
 
 ## About Me
 
-Computer Science undergraduate specializing in **Full-Stack **, now building into **AI Engineering** — integrating LLMs, RAG, and AI agents into real products.
+Computer Science undergraduate specializing in **Full-Stack Development (MERN)**, currently building into **AI Engineering** — integrating LLMs, RAG, and AI agents into real products.
 
-Strong foundation in Java and Data Structures & Algorithms, with backend fundamentals from building and deploying full-stack applications.
+Built and deployed a full-stack banking backend system (Node.js, Express, MongoDB) with authentication and REST APIs. Strong DSA foundation in Java.
 
 Interested in building scalable, well-structured systems and shipping AI-powered features that solve real problems — not just prototypes.
 
@@ -45,12 +45,47 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 <p><strong>REST APIs • Authentication & Authorization</strong></p>
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</div>
+<br/>
+
+---
+
+<h2 align="center">🌱 Currently Learning — AI Engineering</h2>
+<p align="center"><em>Following the <a href="https://roadmap.sh/ai-engineer" target="_blank">roadmap.sh AI Engineer path</a></em></p>
+<br/>
+
+<div align="center">
+
+**LLM Fundamentals**  
+Inference • Training Basics • Embeddings • Tokens & Context Length
+
+**Prompt Engineering**  
+Writing Prompts • ReAct Prompting • Robust Prompt Design
+
+**Models & Platforms**  
+OpenAI API • Anthropic Claude • Google Gemini • Hugging Face • Ollama • Mistral AI • Cohere
+
+**Embeddings & Vector Databases**  
+Semantic Search • Pinecone • Chroma • MongoDB Atlas Vector Search • Similarity Search
+
+**RAG (Retrieval-Augmented Generation)**  
+Chunking • Embedding • Retrieval • Generation • LangChain • LlamaIndex
+
+**AI Agents**  
+OpenAI Functions/Tools • OpenAI Assistants API • Agent Building
+
+**AI Safety & Ethics**  
+Prompt Injection Awareness • Bias & Fairness • OpenAI Moderation API
+
+**Multimodal AI**  
+Image Understanding • Vision API • Whisper (Speech-to-Text) • Text-to-Speech
+
 </div>
 <br/>
 
@@ -72,6 +107,6 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 
 ### 🚀 Currently Focused On
 
-🤖 AI Engineering (LLMs, RAG, AI Agents) • 🌐 Full-Stack • 🧠 DSA | system design
+🤖 AI Engineering (LLMs, RAG, AI Agents) •  Full-Stac  •  DSA  • System design
 
 </div>
