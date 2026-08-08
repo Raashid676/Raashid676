@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohammad+Raashid!;+Full-Stack+%2B+AI+Engineer;" />
 </h1>
 <h3 align="center">
-Full-Stack |AI Engineer
+Full-Stack|AI Engineer
 </h3>
 <br/>
 <div align="center">
