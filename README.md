@@ -3,16 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohammad+Raashid!;+Full-Stack+%2B+AI+Engineer;" />
 </h1>
 <h3 align="center">
-Full-Stack Engineer building AI-powered backend systems
+Full-Stack Developer (MERN) exploring AI Engineering
 </h3>
 <br/>
 <div align="center">
 
 ## About Me
 
-Computer Science undergraduate specializing in **Full-Stack Development (MERN) with AI Engineering** — building backend systems that integrate LLMs, RAG, and AI agents into real products.
+Computer Science undergraduate specializing in **Full-Stack Development (MERN)**, now building into **AI Engineering** — integrating LLMs, RAG, and AI agents into real products.
 
-Strong foundation in Java, Data Structures & Algorithms, and backend fundamentals, with growing depth in Spring Boot for enterprise-style backend work.
+Strong foundation in Java and Data Structures & Algorithms, with backend fundamentals from building and deploying full-stack applications.
 
 Interested in building scalable, well-structured systems and shipping AI-powered features that solve real problems — not just prototypes.
 
@@ -48,11 +48,9 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=spring,maven,gradle" />
-<p><strong>Spring Boot • REST APIs • JPA • Hibernate • Spring Security • Microservices</strong></p>
+<p><strong>REST APIs • Authentication & Authorization</strong></p>
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </div>
 <br/>
 
@@ -74,6 +72,6 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 
 ### 🚀 Currently Focused On
 
-🤖 AI Engineering (LLMs, RAG, AI Agents) • 🌐 Full-Stack (MERN) • ☕ Java & Spring Boot • 🧠 DSA & System Design
+🤖 AI Engineering (LLMs, RAG, AI Agents) • 🌐 Full-Stack (MERN) • 🧠 DSA & Java
 
 </div>
