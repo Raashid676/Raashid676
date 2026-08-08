@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohammad+Raashid!;+Full-Stack+%2B+AI+Engineer;" />
 </h1>
 <h3 align="center">
-Full-Stack Engineer building AI-powered backend systems
+Full-Stack | Ai Engineer
 </h3>
 <br/>
 <div align="center">
 ## About Me
-Computer Science undergraduate specializing in **Full-Stack D with AI Engineering** — building backend systems that integrate LLMs, RAG, and AI agents into real products.
-Strong foundation in Java, Data Structures & Algorithms, and backend fundamentals, with growing depth in Spring Boot for enterprise-style backend work.
+Computer Science undergraduate specializing in **Full-Stack  with AI Engineering** — building backend systems that integrate LLMs, RAG, and AI agents into real products.
+Strong foundation in Java, Data Structures & Algorithms, and backend fundamentals,
 Interested in building scalable, well-structured systems and shipping AI-powered features that solve real problems — not just prototypes.
 🐍 **LeetCode Profile:**  
 <a href="https://leetcode.com/u/i-raashid/" target="_blank">leetcode.com/u/i-raashid</a>
@@ -40,6 +40,9 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 <br/><br/>
+
+
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
 </div>
 <br/>
@@ -56,5 +59,6 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 ---
 <div align="center">
 ### 🚀 Currently Focused On
-🤖 AI Engineering (LLMs, RAG, AI Agents) • 🌐 Full-Stack (MERN) • ☕ Java & Spring Boot • 🧠 DSA & System Design
+🤖 AI Engineering (LLMs, RAG, AI Agents) • 🌐 Full-Stack •  DSA & System Design
 </div>
+ 
