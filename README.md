@@ -14,13 +14,7 @@ Computer Science undergraduate specializing in **Full-Stack Development (MERN)**
 
 Built and deployed a full-stack banking backend system (Node.js, Express, MongoDB) with authentication and REST APIs. Strong DSA foundation in Java.
 
-Interested in building scalable, well-structured systems and shipping AI-powered features that solve real problems — not just prototypes.
-
-🐍 **LeetCode Profile:**  
-<a href="https://leetcode.com/u/i-raashid/" target="_blank">leetcode.com/u/i-raashid</a>
-
-⚡ **I believe:**  
-*"Consistency & Hustle builds better engineers."*
+🐍 **LeetCode:** <a href="https://leetcode.com/u/i-raashid/" target="_blank">leetcode.com/u/i-raashid</a>
 
 </div>
 <br/>
@@ -38,7 +32,7 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 
 ---
 
-<h2 align="center">⚒️ Languages • Frameworks • Technologies • Tools ⚒️</h2>
+<h2 align="center">Tech Stack</h2>
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" />
@@ -48,65 +42,29 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-<p><strong>REST APIs • Authentication & Authorization</strong></p>
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </div>
 <br/>
 
 ---
 
-<h2 align="center">🌱 Currently Learning — AI Engineering</h2>
-<p align="center"><em>Following the <a href="https://roadmap.sh/ai-engineer" target="_blank">roadmap.sh AI Engineer path</a></em></p>
+<h2 align="center">Currently Exploring</h2>
 <br/>
-
 <div align="center">
 
-**LLM Fundamentals**  
-Inference • Training Basics • Embeddings • Tokens & Context Length
-
-**Prompt Engineering**  
-Writing Prompts • ReAct Prompting • Robust Prompt Design
-
-**Models & Platforms**  
-OpenAI API • Anthropic Claude • Google Gemini • Hugging Face • Ollama • Mistral AI • Cohere
-
-**Embeddings & Vector Databases**  
-Semantic Search • Pinecone • Chroma • MongoDB Atlas Vector Search • Similarity Search
-
-**RAG (Retrieval-Augmented Generation)**  
-Chunking • Embedding • Retrieval • Generation • LangChain • LlamaIndex
-
-**AI Agents**  
-OpenAI Functions/Tools • OpenAI Assistants API • Agent Building
-
-**AI Safety & Ethics**  
-Prompt Injection Awareness • Bias & Fairness • OpenAI Moderation API
-
-**Multimodal AI**  
-Image Understanding • Vision API • Whisper (Speech-to-Text) • Text-to-Speech
+LLMs & Prompt Engineering&nbsp;&nbsp;•&nbsp;&nbsp;RAG&nbsp;&nbsp;•&nbsp;&nbsp;Vector Databases&nbsp;&nbsp;•&nbsp;&nbsp;LangChain&nbsp;&nbsp;•&nbsp;&nbsp;AI Agents
 
 </div>
 <br/>
 
 ---
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">GitHub Stats</h2>
 <br/>
 <div align="center">
 <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Raashid676&theme=react&border_radius=10"/>
 <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Raashid676&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
 <br/><br/>
 <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Raashid676&layout=compact&theme=react&border_radius=10"/>
-</div>
-<br/>
-
----
-
-<div align="center">
-
-### 🚀 Currently Focused On
-
-🤖 AI Engineering (LLMs, RAG, AI Agents) •  Full-Stac  •  DSA  • System design
-
 </div>
