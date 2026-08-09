@@ -11,8 +11,8 @@ Full-Stack | Ai Engineer
 Computer Science undergraduate specializing in **Full-Stack  with AI Engineering** — building backend systems that integrate LLMs, RAG, and AI agents into real products.
 Strong foundation in Java, Data Structures & Algorithms, and backend fundamentals,
 Interested in building scalable, well-structured systems and shipping AI-powered features that solve real problems — not just prototypes.
-🐍 **LeetCode Profile:**  
-<a href="https://leetcode.com/u/i-raashid/" target="_blank">leetcode.com/u/i-raashid</a>
+
+
 ⚡ **I believe:**  
 *"Consistency & Hustle builds better engineers."*
 </div>
