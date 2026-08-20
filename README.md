@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohammad+Raashid!;+Backend+%2B+AI+Engineer;" />
 </h1>
 <h3 align="center">
-Backend & Ai applied Engineer
+Backend & Applied  Ai Engineer
 </h3>
 <br/>
 <div align="center">
@@ -11,7 +11,8 @@ Backend & Ai applied Engineer
   
 Computer Science undergraduate specializing in **Full-Stack  with AI Engineering** — building backend systems that integrate LLMs, RAG, and AI agents into real products.
 Strong foundation in Java, Data Structures & Algorithms, and backend fundamentals,
-Interested in building scalable, well-structured systems and shipping AI-powered features that solve real problems — not just prototypes.
+Interested in building scalable, well-structured systems and shipping AI-powered features that solve real problems — not just prototypes. i can build anything
+
 
 
 ⚡ **I believe:**  
@@ -60,6 +61,6 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 ---
 <div align="center">
 ### 🚀 Currently Focused On
-🤖 AI Engineering (LLMs, RAG, AI Agents) • 🌐 Full-Stack •  DSA & System Design
+🤖 AI Engineering (LLMs, RAG, AI Agents) • 🌐 Backend •  DSA & System Design
 </div>
  
