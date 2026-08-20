@@ -1,13 +1,14 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Raashid676&label=Profile%20Views&color=0e75b6&style=flat" />
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohammad+Raashid!;+Full-Stack+%2B+AI+Engineer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohammad+Raashid!;+Backend+%2B+AI+Engineer;" />
 </h1>
 <h3 align="center">
-Full-Stack | Ai Engineer
+Backend & Ai applied Engineer
 </h3>
 <br/>
 <div align="center">
 ## About Me
+  
 Computer Science undergraduate specializing in **Full-Stack  with AI Engineering** — building backend systems that integrate LLMs, RAG, and AI agents into real products.
 Strong foundation in Java, Data Structures & Algorithms, and backend fundamentals,
 Interested in building scalable, well-structured systems and shipping AI-powered features that solve real problems — not just prototypes.
