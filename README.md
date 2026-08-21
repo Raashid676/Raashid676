@@ -49,6 +49,23 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 </div>
 <br/>
 ---
+<h2 align="center">🤖 AI Engineering — LLMs • RAG • Agents 🤖</h2>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Vector%20DB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-4B0082?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0f9d58?style=for-the-badge&logo=robotframework&logoColor=white"/>
+</div>
+<br/>
+---
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
 <div align="center">
