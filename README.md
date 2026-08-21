@@ -12,9 +12,6 @@ Backend & Applied  Ai Engineer
 Computer Science undergraduate specializing in **Full-Stack  with AI Engineering** — building backend systems that integrate LLMs, RAG, and AI agents into real products.
 Strong foundation in Java, Data Structures & Algorithms, and backend fundamentals,
 Interested in building scalable, well-structured systems and shipping AI-powered features that solve real problems — not just prototypes. i can build anything
-
-
-
 ⚡ **I believe:**  
 *"Consistency & Hustle builds better engineers."*
 </div>
@@ -42,9 +39,12 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 <br/><br/>
-
-
-<br/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=kafka,redis,rabbitmq,postgres" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,jenkins,nginx,graphql" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
 </div>
 <br/>
@@ -63,4 +63,3 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 ### 🚀 Currently Focused On
 🤖 AI Engineering (LLMs, RAG, AI Agents) • 🌐 Backend •  DSA & System Design
 </div>
- 
