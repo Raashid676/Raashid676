@@ -1,21 +1,32 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Raashid676&label=Profile%20Views&color=0e75b6&style=flat" />
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohammad+Raashid!;+Backend+%2B+AI+Engineer;" />
 </h1>
+
 <h3 align="center">
-Backend & Applied  Ai Engineer
+Backend & Applied AI Engineer
 </h3>
+
 <br/>
+
 <div align="center">
+
 ## About Me
-  
-Computer Science undergraduate specializing in **Full-Stack  with AI Engineering** — building backend systems that integrate LLMs, RAG, and AI agents into real products.
-Strong foundation in Java, Data Structures & Algorithms, and backend fundamentals,
-Interested in building scalable, well-structured systems and shipping AI-powered features that solve real problems — not just prototypes. i can build anything
-⚡ **I believe:**  
+
+Computer Science undergraduate specializing in **Full-Stack with AI Engineering** — building backend systems that integrate LLMs, RAG, and AI agents into real products.
+
+Strong foundation in Java, Data Structures & Algorithms, and backend fundamentals.
+
+Interested in building scalable, well-structured systems and shipping AI-powered features that solve real problems — not just prototypes. I can build anything.
+
+⚡ **I believe:**
 *"Consistency & Hustle builds better engineers."*
+
 </div>
+
 <br/>
+
 <div align="center">
 <a href="mailto:abr082435@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -27,9 +38,13 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </div>
+
 ---
+
 <h2 align="center">⚒️ Languages • Frameworks • Technologies • Tools ⚒️</h2>
+
 <br/>
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" />
 <br/><br/>
@@ -47,10 +62,15 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
 </div>
+
 <br/>
+
 ---
+
 <h2 align="center">🤖 AI Engineering — LLMs • RAG • Agents 🤖</h2>
+
 <br/>
+
 <div align="center">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -64,19 +84,30 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <img src="https://img.shields.io/badge/RAG%20Pipelines-4B0082?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20Agents-0f9d58?style=for-the-badge&logo=robotframework&logoColor=white"/>
 </div>
+
 <br/>
+
 ---
+
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
+
 <br/>
+
 <div align="center">
 <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Raashid676&theme=react&border_radius=10"/>
 <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Raashid676&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
 <br/><br/>
 <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Raashid676&layout=compact&theme=react&border_radius=10"/>
 </div>
+
 <br/>
+
 ---
+
 <div align="center">
+
 ### 🚀 Currently Focused On
-🤖 AI Engineering (LLMs, RAG, AI Agents) • 🌐 Backend •  DSA & System Design
+
+🤖 AI Engineering (LLMs, RAG, AI Agents) • 🌐 Backend • DSA & System Design
+
 </div>
