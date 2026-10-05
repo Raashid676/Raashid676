@@ -37,7 +37,7 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <a href="mailto:abr082435@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/mohammad-raashid-1b30aa387/" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-raashid-3b8889438/?isSelfProfile=true" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/i-raashid/" target="_blank">
