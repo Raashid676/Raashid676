@@ -1,13 +1,7 @@
-
-
-
-
-
-
 <img align="right" src="https://komarev.com/ghpvc/?username=Raashid676&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohammad+Raashid!;+Backend+%2B+AI+Engineer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There%21;I%27m+Mohammad+Raashid%21;Backend+%2B+AI+Engineer" />
 </h1>
 
 <h3 align="center">
@@ -37,7 +31,7 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <a href="mailto:abr082435@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/muhammad-raashid-3b8889438/?isSelfProfile=true" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-raashid-3b8889438/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/i-raashid/" target="_blank">
@@ -100,10 +94,10 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <br/>
 
 <div align="center">
-<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Raashid676&theme=react&border_radius=10"/>
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Raashid676&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+<img width="390" src="https://streak-stats.demolab.com/?user=Raashid676&theme=default&border_radius=10"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Raashid676&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
 <br/><br/>
-<img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Raashid676&layout=compact&theme=react&border_radius=10"/>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raashid676&layout=compact&theme=react&border_radius=10"/>
 </div>
 
 <br/>
