@@ -46,37 +46,21 @@ Interested in building scalable, well-structured systems and shipping AI-powered
 <br/>
 
 <div align="center">
-<a href="https://github.com/davidxharris/skill-icons-plus">
-<img src="https://skill-icons-plus.davidxharris.com/icons?i=java,python,js,cpp,c" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" />
 <br/><br/>
-<a href="https://github.com/davidxharris/skill-icons-plus">
-<img src="https://skill-icons-plus.davidxharris.com/icons?i=nodejs,express" />
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 <br/><br/>
-<a href="https://github.com/davidxharris/skill-icons-plus">
-<img src="https://skill-icons-plus.davidxharris.com/icons?i=html,css,react,tailwind" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 <br/><br/>
-<a href="https://github.com/davidxharris/skill-icons-plus">
-<img src="https://skill-icons-plus.davidxharris.com/icons?i=mysql,mongodb" />
-</a>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 <br/><br/>
-<a href="https://github.com/davidxharris/skill-icons-plus">
-<img src="https://skill-icons-plus.davidxharris.com/icons?i=spring,hibernate,maven,gradle" />
-</a>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle" />
 <br/><br/>
-<a href="https://github.com/davidxharris/skill-icons-plus">
-<img src="https://skill-icons-plus.davidxharris.com/icons?i=kafka,redis,rabbitmq,postgres" />
-</a>
+<img src="https://skillicons.dev/icons?i=kafka,redis,rabbitmq,postgres" />
 <br/><br/>
-<a href="https://github.com/davidxharris/skill-icons-plus">
-<img src="https://skill-icons-plus.davidxharris.com/icons?i=aws,kubernetes,jenkins,nginx,graphql" />
-</a>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,jenkins,nginx,graphql" />
 <br/><br/>
-<a href="https://github.com/davidxharris/skill-icons-plus">
-<img src="https://skill-icons-plus.davidxharris.com/icons?i=git,github,docker,postman,linux,vscode" />
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
 </div>
 
 <br/>
